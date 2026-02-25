@@ -28,6 +28,7 @@ Analyze automobile data to uncover insights on pricing, performance, fuel effici
 - Highlighted market risks and positioning gaps  
 
 ## 🖼️ Dashboard Preview
+<img width="941" height="480" alt="8 Risk and market positioning" src="https://github.com/user-attachments/assets/ba104ba0-02c0-4f5a-88d5-40a061b6a157" />
 
 
 
