@@ -28,9 +28,13 @@ Analyze automobile data to uncover insights on pricing, performance, fuel effici
 - Highlighted market risks and positioning gaps  
 
 ## 🖼️ Dashboard Preview
-<img width="941" height="480" alt="8 Risk and market positioning" src="https://github.com/user-attachments/assets/ba104ba0-02c0-4f5a-88d5-40a061b6a157" />
-
-
+<img width="943" height="481" alt="1 home page" src="https://github.com/user-attachments/assets/1b5c7ff0-9fc4-4e13-8427-883bc31cb942" />
+<img width="944" height="481" alt="3 Executive overview" src="https://github.com/user-attachments/assets/f31433fe-3950-4927-9ef2-4bf43c9d9f8c" />
+<img width="938" height="482" alt="4 Price and value analysis" src="https://github.com/user-attachments/assets/a55ba132-6410-441e-b8fe-49508d231e7b" />
+<img width="946" height="478" alt="5 Performance analysis" src="https://github.com/user-attachments/assets/e8c3337d-ff71-4c97-9c78-c7fd91a183d1" />
+<img width="943" height="485" alt="6 Fule and efficiency" src="https://github.com/user-attachments/assets/188e1b28-534d-41ea-a396-0962d9c49ba9" />
+<img width="930" height="476" alt="7 size and design impact" src="https://github.com/user-attachments/assets/e6965b1e-5e24-4816-9eaf-ab56aa42f317" />
+<img width="941" height="480" alt="8 Risk and market positioning" src="https://github.com/user-attachments/assets/cf957dc3-751f-4048-a3f0-5235e3fd08f4" />
 
 ## 🚀 How to Use
 1. Download the `.pbix` file  
